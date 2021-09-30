@@ -21,7 +21,7 @@
 
 </template>
 
-<script lang="ts">
+<script>
 import language_menuVue from './first_menu/language_menu.vue';
 import navbar_lightVue from './first_menu/navbar_light.vue';
 import social_linksVue from './first_menu/social_links.vue';

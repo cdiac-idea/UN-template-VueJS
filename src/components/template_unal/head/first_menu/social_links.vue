@@ -7,7 +7,7 @@
     </ul>
 </template>
 
-<script lang="ts">
+<script>
 import social_linkVue from './social_link.vue'
 export default {
     name:'social_links',
